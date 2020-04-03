@@ -7,4 +7,4 @@ This is a simple Python program to change the MAC address in LINUX OS
     * python MAC_Address_Changer.py -i interface name -m New_MAC_Address
     * OR
     * python MAC_Address_Changer.py --interface interface name --mac New_MAC_Address
- * You can also type --help for guidance 
+ * You can also type MAC_ADDRESS_CHANGER.py --help for guidance 
